@@ -31,7 +31,7 @@ variable "ec2_instance_count" {
 }
 
 variable "key_name" {
-  default = "desktop"
+  default = "bayer_practice"
 }
 
 variable "project_name" {
